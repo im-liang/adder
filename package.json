@@ -1,0 +1,19 @@
+{
+  "name": "adder",
+  "version": "1.0.0",
+  "description": "Personal reward tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-liang/adder.git"
+  },
+  "author": "Claire Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/im-liang/adder/issues"
+  },
+  "homepage": "https://github.com/im-liang/adder#readme"
+}
